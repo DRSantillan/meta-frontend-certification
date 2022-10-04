@@ -1,0 +1,40 @@
+/* Step 2 */
+body {
+  background-color: #e0e0e2;
+}
+/* Step 3 */
+h1 {
+  color: #721817;
+}
+/* Step 4 */
+h2 {
+  color: #721817;
+}
+/* 
+An alternative way to do it
+h1,
+h2 {
+  color: #721817;
+}
+*/
+/* Step 5 */
+.center-text {
+  text-align: center;
+}
+/* Step 6 */
+#logo {
+  margin-left: auto;
+  margin-right: auto;
+  /* can also use margin:auto; */
+  display: block;
+}
+/* Step 7 */
+h2 > span {
+  color: #fa9f42;
+  font-size: 0.75em;
+}
+/* Step 8 */
+#copyright {
+  padding-top: 12px;
+  font-size: 0.75em;
+}
